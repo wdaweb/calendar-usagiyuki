@@ -72,6 +72,7 @@
     </style>
 </head>
 <?php
+		date_default_timezone_set("Asia/Taipei");
     $holiday = [];
     $nnniversary = [];
     for ($i = 1; $i <= 12; $i++) {
