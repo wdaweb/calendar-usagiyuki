@@ -38,7 +38,7 @@
             line-height : 16px;
         }
         .d1{
-            margin : 15% 20% 5%;
+            margin : 5% 20%;
             display : flex;
             justify-content: space-around;
         }
